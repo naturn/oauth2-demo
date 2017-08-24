@@ -4,11 +4,11 @@
 Shiro targets what the Shiro development team calls “the four cornerstones of application security” - Authentication, Authorization, Session Management, and Cryptography:
 
 - Authentication: Sometimes referred to as ‘login’, this is the act of proving a user is who they say they are.
-- 
+
 - Authorization: The process of access control, i.e. determining ‘who’ has access to ‘what’.
-- 
+
 - Session Management: Managing user-specific sessions, even in non-web or EJB applications.
-- 
+
 - Cryptography: Keeping data secure using cryptographic algorithms while still being easy to use
 
 There are also additional features to support and reinforce these concerns in different application environments, especially:
